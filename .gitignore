@@ -1,0 +1,14 @@
+
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+raw_data/**
+cleaned_data/**
+
+!raw_data/.keep
+!cleaned_data/.keep
+
+.vscode/
+.idea/
